@@ -1,6 +1,10 @@
 fers
 <<<<<<< HEAD
+<<<<<<< HEAD
 bloop
 h
 =======
 >>>>>>> parent of 27f0583... test 2
+=======
+h
+>>>>>>> parent of 827e4c6... 'test3'
