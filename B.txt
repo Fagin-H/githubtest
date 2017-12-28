@@ -1,3 +1,6 @@
 fers
+<<<<<<< HEAD
 bloop
 h
+=======
+>>>>>>> parent of 27f0583... test 2
